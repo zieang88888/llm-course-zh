@@ -5,6 +5,7 @@
 # LLM Course 中文版
 
 > **全球最热门的免费大语言模型课程 · 中文导航版**
+>
 > 源自 GitHub 上 **83,000+ ★** 的 [mlabonne/llm-course](https://github.com/mlabonne/llm-course)，收录 **20 个章节 + 23 个 Colab 实战 Notebook**，覆盖从数学基础、模型预训练、微调对齐到 RAG、Agent 与安全部署的全链路，是零基础入门 LLM 的最优路线图。
 
 ![Stars](https://img.shields.io/badge/GitHub%20Stars-83%2C291-B23A2E?style=flat-square)
@@ -13,6 +14,8 @@
 ![License](https://img.shields.io/badge/License-Apache%202.0-B23A2E?style=flat-square)
 
 ---
+
+⭐ 如果对你有帮助，点个 Star 支持中文开源
 
 ## 目录
 
@@ -35,6 +38,7 @@
 **LLM Course 中文版** 是对 GitHub 最热门的免费 LLM 课程 [mlabonne/llm-course](https://github.com/mlabonne/llm-course) 的中文二次开发项目。
 
 源项目由 Maxime Labonne 创建并持续维护，把「从零进入大语言模型世界」整理成一份结构化的学习路线图，分为三大路径：
+
 - 🧩 **LLM Fundamentals（4 章，可选）**：机器学习数学、Python、神经网络、NLP 基础，按需查阅；
 - 🧑‍🔬 **The LLM Scientist（8 章）**：如何用最新技术构建最好的 LLM——从架构、预训练到微调、对齐、评估、量化；
 - 👷 **The LLM Engineer（8 章）**：如何构建并部署 LLM 应用——运行模型、向量存储、RAG、Agent、推理优化、部署与安全。
@@ -42,6 +46,7 @@
 每个章节都附「📚 References」精选外部资料（视频 / 文章 / 框架），并配套 **23 个 Colab Notebook**（微调 Llama、ORPO、DPO、量化 GGUF/GPTQ、MergeKit 模型合并……）一键运行。
 
 **中文版做了什么：**
+
 - 🗂️ 把源课程 **20 个章节** 全量提取为中文索引（[course-index.md](course-index.md)），三大路径分组、逐章中文译名 + 一句话要点；
 - ⚡ 在本 README 给出路径总览表与精选章节导读；
 - 📖 提炼「三步上手」学习路径与 FAQ，让你从零开始规划自己的 LLM 学习路线。
@@ -121,18 +126,23 @@
 ## 常见问题 FAQ
 
 **Q1：零基础能学吗？**
+
 能。Fundamentals 路径专为基础薄弱者设计（数学 / Python / 神经网络），按需查阅；直接想动手的可以从 Engineer 路径 1 章开始。
 
 **Q2：跑 Notebook 需要花钱吗？**
+
 Colab 免费额度即可跑大部分 Notebook（微调用 Unsloth 极省显存）；长时间训练建议购买 Colab 付费计划。
 
 **Q3：Scientist 和 Engineer 必须都学吗？**
+
 不必。想训练模型走 Scientist，想构建应用走 Engineer；两条主线可并行，Fundamentals 按需补充。
 
 **Q4：课程会过时吗？**
+
 LLM 领域演进快，但作者持续更新章节（如前沿趋势章覆盖模型合并与新训练技术），DeepWiki 也有增强版镜像。
 
 **Q5：这个中文版和源项目是什么关系？**
+
 本项目是中文**课程导航与导读**，章节正文、Notebook、参考资料都在源项目。所有内容链接均跳转源仓，版权归源项目及作者。
 
 ## 参与贡献
@@ -152,3 +162,15 @@ LLM 领域演进快，但作者持续更新章节（如前沿趋势章覆盖模�
 - 本仓库代码与文档：**MIT License**（见 [LICENSE](LICENSE)，Copyright (c) 2026 zieang88888）；
 - 源项目 [mlabonne/llm-course](https://github.com/mlabonne/llm-course)：**Apache License 2.0**；
 - 第三方声明与完整署名见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+
+## 姊妹项目
+
+中文开源矩阵，一网打尽开发者的知识库：
+
+- [zhskills · 中文技能库](https://github.com/zieang88888/zhskills)
+- [awesome-ai-tools-zh · AI 工具导航](https://github.com/zieang88888/awesome-ai-tools-zh)
+- [free-programming-books-zh · 编程书籍大全](https://github.com/zieang88888/free-programming-books-zh)
+- [system-design-zh · 系统设计面试](https://github.com/zieang88888/system-design-zh)
+- [awesome-python-zh · Python 生态导航](https://github.com/zieang88888/awesome-python-zh)
+- [ohmyzsh-zh · 终端效率神器](https://github.com/zieang88888/ohmyzsh-zh)
+- [design-resources-for-developers-zh · 设计资源大全](https://github.com/zieang88888/design-resources-for-developers-zh)
