@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" font-family="Noto Sans CJK SC, sans-serif">
+  <rect width="960" height="220" fill="#FAF6EF"/>
+  <rect x="0" y="0" width="960" height="8" fill="#B23A2E"/>
+  <circle cx="150" cy="52" r="22" fill="#B23A2E"/>
+  <text x="150" y="60" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+  <rect x="60" y="95" width="250" height="85" rx="12" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+  <text x="185" y="128" font-size="20" font-weight="bold" fill="#1F1B16" text-anchor="middle">选学习路径</text>
+  <text x="185" y="156" font-size="14" fill="#1F1B16" text-anchor="middle">按目标选 Scientist 或 Engineer</text>
+  <circle cx="480" cy="52" r="22" fill="#B23A2E"/>
+  <text x="480" y="60" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+  <rect x="355" y="95" width="250" height="85" rx="12" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+  <text x="480" y="128" font-size="20" font-weight="bold" fill="#1F1B16" text-anchor="middle">逐章学习</text>
+  <text x="480" y="156" font-size="14" fill="#1F1B16" text-anchor="middle">章节带参考资源与要点</text>
+  <circle cx="810" cy="52" r="22" fill="#B23A2E"/>
+  <text x="810" y="60" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+  <rect x="650" y="95" width="250" height="85" rx="12" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+  <text x="775" y="128" font-size="20" font-weight="bold" fill="#1F1B16" text-anchor="middle">跑 Notebook</text>
+  <text x="775" y="156" font-size="14" fill="#1F1B16" text-anchor="middle">Colab 实操微调与量化</text>
+  <text x="330" y="138" font-size="30" fill="#B23A2E" text-anchor="middle">→</text>
+  <text x="625" y="138" font-size="30" fill="#B23A2E" text-anchor="middle">→</text>
+</svg>
